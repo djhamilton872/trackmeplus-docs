@@ -19,9 +19,14 @@ search:
 # Aux links (top right)
 aux_links:
   "Go to App":
-    - "https://peptides.hamiltonsweb.com"
+    - "https://trackmeplus.com"
 
 aux_links_new_tab: true
+
+# Blog settings
+show_excerpts: true
+excerpt_separator: "<!--more-->"
+paginate: 10
 
 # Footer
 footer_content: "Copyright &copy; 2025-2026 TrackMe+. All rights reserved."
