@@ -1,6 +1,6 @@
 # TrackMe+ User Manual
 
-**Version:** 2.46.0
+**Version:** 2.52.3
 **URL:** https://trackmeplus.com
 
 ---
@@ -537,6 +537,59 @@ Track spending on your peptide therapy.
 - **By Category** - Breakdown of spending
 - **Monthly Trend** - Spending over time
 
+### Import from Receipt (Premium)
+
+Tired of typing in every purchase? Just snap a photo of your receipt!
+
+**How to Use:**
+1. Go to the **Budget** page
+2. Click the purple **Import Receipt** button (top right)
+3. Take a photo of your receipt, invoice, or order confirmation
+4. Click **Extract Purchases**
+5. Wait a few seconds while the app reads your receipt
+6. Check that everything looks right
+7. Click **Import** to save
+
+**What the App Can Read:**
+- Peptides and compounds you purchased
+- Medical supplies (syringes, BAC water, etc.)
+- Shipping costs
+- Lab test fees
+- Pretty much anything on a receipt!
+
+**Tips for Good Photos:**
+- Make sure the text is clear and readable
+- Get the whole receipt in the photo
+- Good lighting helps!
+- Screenshots from email order confirmations work great
+
+**Limits:**
+- Premium members get 10 receipt imports per month
+- Your count resets on the 1st of each month
+
+### Duplicate Protection
+
+Don't worry about accidentally importing the same receipt twice! The app automatically checks for duplicates.
+
+**How it works:**
+An item is considered a duplicate if ALL THREE of these match:
+- Same store/vendor name
+- Same exact dollar amount
+- Same date on the receipt
+
+**What happens:**
+- If you try to import something that's already in your records, it gets skipped automatically
+- You'll see a message telling you which items were skipped
+- New items from the same receipt still get imported normally
+
+**Example:** Let's say you imported an Amazon order last week. If you accidentally try to import it again, the app will say "Already imported" and skip those items. No duplicates!
+
+**When you CAN import the same item:**
+- You bought it on a different date
+- The price was different
+- You bought it from a different store
+- You deleted the original entry (you can re-import it)
+
 ---
 
 ## Vendors
@@ -601,9 +654,11 @@ Track your peptide-related supplies and inventory.
 - Storage (vials, containers)
 - Other
 
-### Import from Screenshot (Premium)
+### Import Supplies from Receipt (Premium)
 
-Just bought supplies? Snap a photo of your receipt or invoice and the app will add them automatically!
+You can also import supplies directly from receipts! This works the same way as the Budget import - just take a photo and the app reads it for you.
+
+The app automatically knows the difference between peptides and supplies, so everything gets sorted into the right place.
 
 **How to Use:**
 1. Click the purple **Import from Screenshot** button
@@ -614,7 +669,7 @@ Just bought supplies? Snap a photo of your receipt or invoice and the app will a
 6. Click **Import** to save
 
 **What the App Can Read:**
-- Product names
+- Product names (syringes, needles, BAC water, etc.)
 - Quantities
 - Prices
 - Vendor/seller name (when shown)
@@ -623,10 +678,11 @@ Just bought supplies? Snap a photo of your receipt or invoice and the app will a
 - Amazon order confirmations work great
 - Pharmacy receipts work too
 - Make sure the text is readable
+- Don't worry about duplicates - the app checks automatically!
 
 **Limits:**
 - Premium members get 10 photo imports per month
-- This is separate from your Lab import limit
+- This shares the same limit as Budget imports
 
 ---
 
@@ -668,10 +724,44 @@ Customize your TrackMe+ experience.
 ### Billing Tab
 
 **Subscription Management:**
-- View current plan
-- See usage statistics
+- View current plan and status
+- See usage statistics (compounds used, lab results used)
 - Upgrade or downgrade plan
+- Switch between Monthly and Annual billing
 - Cancel subscription
+- Reactivate a cancelled subscription (before it expires)
+
+**Subscription Status:**
+| Status | Description |
+|--------|-------------|
+| **Active** | Your subscription is current and active |
+| **Cancelling** | Cancelled but still active until period ends |
+| **Expired** | Subscription has ended |
+
+**Cancelling Your Subscription:**
+1. Go to **Settings** > **Billing**
+2. Click the **Cancel Subscription** button
+3. Confirm the cancellation
+4. Your subscription remains active until the end of your billing period
+5. Status changes to "Cancelling" with the expiration date shown
+
+**Reactivating a Cancelled Subscription:**
+If you cancelled but changed your mind:
+1. Go to **Settings** > **Billing**
+2. You'll see a **Reactivate Subscription** button (only visible if cancelled but not yet expired)
+3. Click **Reactivate**
+4. Your subscription continues without interruption
+
+**Annual vs Monthly Billing:**
+When upgrading, you can choose between:
+- **Monthly** - Pay monthly, cancel anytime
+- **Annual** - Pay yearly, save ~17% compared to monthly
+
+To switch billing cycles:
+1. Go to **Settings** > **Billing**
+2. Click **Upgrade**
+3. Toggle between Monthly/Annual using the billing toggle
+4. Select your plan and complete checkout
 
 ---
 
@@ -684,7 +774,7 @@ Customize your TrackMe+ experience.
 - Basic features
 - Email support
 
-### Standard Plan - $9.99/month
+### Standard Plan - $9.99/month or $99.99/year
 
 - **Unlimited compounds**
 - Up to **50 lab results per year**
@@ -692,21 +782,69 @@ Customize your TrackMe+ experience.
 - Priority support
 - Data export
 
-### Premium Plan - $19.99/month
+### Premium Plan - $19.99/month or $199.99/year
 
 - **Unlimited compounds**
 - **Unlimited lab results**
 - All Standard features
+- **AI-Powered OCR** - Import labs and receipts from photos
 - Advanced analytics
 - Phone support
+
+### Annual Savings
+
+Save ~17% by choosing annual billing:
+| Plan | Monthly | Annual | Savings |
+|------|---------|--------|---------|
+| Standard | $9.99/mo | $99.99/yr | $19.89/yr |
+| Premium | $19.99/mo | $199.99/yr | $39.89/yr |
 
 ### Upgrading Your Plan
 
 1. Go to **Settings** > **Billing**
 2. Click **Upgrade**
-3. Select your new plan
-4. Enter payment information
-5. Confirm the upgrade
+3. Choose **Monthly** or **Annual** billing
+4. Select your new plan
+5. Enter payment information
+6. Confirm the upgrade
+
+---
+
+## Mobile App (PWA)
+
+TrackMe+ works great on your phone as a Progressive Web App (PWA). Install it for a native app-like experience.
+
+### Installing on iPhone/iPad
+
+1. Open Safari and go to https://trackmeplus.com
+2. Log in to your account
+3. Tap the **Share** button (square with arrow)
+4. Scroll down and tap **Add to Home Screen**
+5. Name it "TrackMe+" and tap **Add**
+6. The app icon appears on your home screen
+
+### Installing on Android
+
+1. Open Chrome and go to https://trackmeplus.com
+2. Log in to your account
+3. Tap the **three dots** menu (top right)
+4. Tap **Add to Home screen** or **Install app**
+5. Name it "TrackMe+" and tap **Add**
+6. The app icon appears on your home screen
+
+### Mobile Features
+
+| Feature | Description |
+|---------|-------------|
+| **Dose Timer** | Timer with presets (5, 10, 15, 30 min) |
+| **Quick Logging** | Mark doses complete with one tap |
+| **Inventory** | Check supply levels on the go |
+| **Streak Tracking** | See your dosing consistency |
+| **Notifications** | Get dose reminders (when enabled) |
+
+### Offline Capability
+
+The PWA works offline for viewing your schedule and compound info. Changes sync when you reconnect to the internet
 
 ---
 
@@ -823,4 +961,4 @@ For help with TrackMe+:
 ---
 
 *Last updated: January 2026*
-*Version: 2.46.0*
+*Version: 2.52.3*
