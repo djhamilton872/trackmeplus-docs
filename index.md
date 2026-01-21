@@ -13,7 +13,7 @@ Your complete guide to tracking peptides, supplements, and health data.
 {: .fs-6 .fw-300 }
 
 [Get Started]({% link quick-start.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Go to App](https://peptides.hamiltonsweb.com){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Go to App](https://trackmeplus.com){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -43,7 +43,7 @@ Peptide Track+ is a comprehensive web application for tracking your peptide ther
 
 ## Need Help?
 
-- **Email**: [support@hamiltonsweb.com](mailto:support@hamiltonsweb.com)
+- **Email**: [support@trackmeplus.com](mailto:support@trackmeplus.com)
 - **In-App**: Settings → Support → Report an Issue
 
 ---

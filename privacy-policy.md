@@ -6,10 +6,10 @@ nav_order: 7
 
 # Privacy Policy
 
-**Effective Date:** December 1, 2025  
-**Last Updated:** December 1, 2025
+**Effective Date:** December 1, 2025
+**Last Updated:** January 21, 2026
 
-Hamilton's Web ("we," "us," or "our") operates Peptide Tracker ("Service"). This Privacy Policy explains how we collect, use, and protect your information.
+NexHam LLC ("we," "us," or "our") operates TrackMe+ ("Service"). This Privacy Policy explains how we collect, use, and protect your information.
 
 ---
 
@@ -122,6 +122,23 @@ Your exported data is provided in standard formats (CSV, JSON) for portability.
 
 ---
 
+## Account Access Requests
+
+We take your privacy seriously. We will NOT provide access to your account or data to:
+- Family members or friends (without your explicit authorization)
+- Employers or insurance companies
+- Marketing companies or data brokers
+
+We may disclose account information only:
+- With your explicit written consent
+- In response to valid legal process (subpoena, court order)
+- To protect the safety of users or others
+- To protect our legal rights
+
+If you receive a request for your data, we recommend consulting with a legal professional.
+
+---
+
 ## 7. Third-Party Services
 
 ### 7.1 Payment Processing
@@ -168,8 +185,8 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 ## 12. Contact Us
 
 For questions about this Privacy Policy or your data, contact us at:
-- **Email:** privacy@peptidetracker.com
-- **Website:** [https://peptides.hamiltonsweb.com](https://peptides.hamiltonsweb.com)
+- **Email:** privacy@trackmeplus.com
+- **Website:** [https://trackmeplus.com](https://trackmeplus.com)
 
 ---
 
@@ -180,7 +197,7 @@ If you are a California resident, you have the right to:
 - Request deletion of your personal information
 - Opt-out of the sale of personal information (we do not sell your data)
 
-To exercise these rights, contact us at privacy@peptidetracker.com.
+To exercise these rights, contact us at privacy@trackmeplus.com.
 
 ---
 
@@ -194,4 +211,4 @@ If you are in the European Union, you have additional rights including:
 - Right to data portability
 - Right to object
 
-To exercise these rights, contact us at privacy@peptidetracker.com.
+To exercise these rights, contact us at privacy@trackmeplus.com.

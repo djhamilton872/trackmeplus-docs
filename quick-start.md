@@ -18,7 +18,7 @@ Get up and running in under 5 minutes!
 1 minute
 {: .label .label-green }
 
-1. Go to [peptides.hamiltonsweb.com](https://peptides.hamiltonsweb.com)
+1. Go to [trackmeplus.com](https://trackmeplus.com)
 2. Click **Sign Up**
 3. Enter your name, email, and password
 4. Click **Create Account**

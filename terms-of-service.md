@@ -6,10 +6,10 @@ nav_order: 6
 
 # Terms of Service
 
-**Effective Date:** December 1, 2025  
-**Last Updated:** December 1, 2025
+**Effective Date:** December 1, 2025
+**Last Updated:** January 21, 2026
 
-Welcome to Peptide Tracker ("Service"), operated by Hamilton's Web ("we," "us," or "our"). By creating an account or using our Service, you agree to these Terms of Service ("Terms").
+Welcome to TrackMe+ ("Service"), operated by NexHam LLC ("we," "us," or "our"). By creating an account or using our Service, you agree to these Terms of Service ("Terms").
 
 **If you do not agree to these Terms, do not use the Service.**
 
@@ -17,7 +17,7 @@ Welcome to Peptide Tracker ("Service"), operated by Hamilton's Web ("we," "us," 
 
 ## 1. Service Description
 
-Peptide Tracker is a personal health and supplement tracking application that allows users to:
+TrackMe+ is a personal health and medication tracking application that allows users to:
 - Log and track peptides, supplements, and related compounds
 - Record dosing schedules and history
 - Store lab results
@@ -75,6 +75,18 @@ You agree to use the Service only for lawful purposes and in accordance with all
 ### 3.4 Data Backup
 
 While we maintain backups of Service data, **you are encouraged to regularly export your data**. We are not responsible for data loss.
+
+### 3.5 Account Sharing and Access
+
+**Your account is personal to you.** You may choose to share your login credentials with trusted individuals (such as family members or caregivers) at your own discretion and risk.
+
+**IMPORTANT:**
+- **We will NEVER provide account access to any third party**, including family members, caregivers, law enforcement, or legal representatives, without proper legal process (e.g., valid court order).
+- If you share your credentials with others, YOU are responsible for all actions taken on your account.
+- We cannot recover, reset, or grant access to accounts on behalf of anyone other than the verified account holder.
+- In the event of incapacitation or death, account access is governed by applicable laws and requires proper legal documentation.
+
+**Recommendation:** If you want someone to have access to your health information in an emergency, consider using the Emergency Share feature (when available) or export your data regularly and store it securely.
 
 ---
 
@@ -162,7 +174,7 @@ OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE SERVICE IN THE 
 
 ## 8. Indemnification
 
-You agree to indemnify and hold harmless Hamilton's Web, its officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from:
+You agree to indemnify and hold harmless NexHam LLC, its officers, directors, employees, and agents from any claims, damages, losses, or expenses arising from:
 - Your use of the Service
 - Your violation of these Terms
 - Your violation of any third-party rights
@@ -203,8 +215,8 @@ These Terms are governed by the laws of the State of Missouri, United States, wi
 ## 12. Contact
 
 For questions about these Terms, contact us at:
-- **Email:** support@peptidetracker.com
-- **Website:** [https://peptides.hamiltonsweb.com](https://peptides.hamiltonsweb.com)
+- **Email:** support@trackmeplus.com
+- **Website:** [https://trackmeplus.com](https://trackmeplus.com)
 
 ---
 

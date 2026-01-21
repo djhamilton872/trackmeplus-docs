@@ -29,7 +29,7 @@ Yes. Your data is stored securely with encryption. We never share your personal 
 <details markdown="block">
 <summary>Can I use this on my phone?</summary>
 
-Yes! Peptide Track+ is fully responsive and works on smartphones, tablets, and desktop computers. Just visit [peptides.hamiltonsweb.com](https://peptides.hamiltonsweb.com) in your mobile browser.
+Yes! Peptide Track+ is fully responsive and works on smartphones, tablets, and desktop computers. Just visit [trackmeplus.com](https://trackmeplus.com) in your mobile browser.
 </details>
 
 ---
@@ -142,12 +142,12 @@ Check that:
 
 Two ways:
 1. **In-app:** Settings → Support → Report an Issue
-2. **Email:** [support@hamiltonsweb.com](mailto:support@hamiltonsweb.com)
+2. **Email:** [support@trackmeplus.com](mailto:support@trackmeplus.com)
 </details>
 
 ---
 
 ## Still Have Questions?
 
-[Contact Support](mailto:support@hamiltonsweb.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Contact Support](mailto:support@trackmeplus.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Back to Home]({% link index.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }

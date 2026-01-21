@@ -954,7 +954,7 @@ Generate formatted PDF reports:
 
 For help with TrackMe+:
 
-- **Email:** support@hamiltonsweb.com
+- **Email:** support@trackmeplus.com
 - **Documentation:** This manual
 - **Billing Issues:** Settings > Billing
 
