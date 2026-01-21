@@ -23,14 +23,15 @@ TrackMe+ is a comprehensive web application for tracking your medications, pepti
 
 ### Key Features
 
-- **Compound Management** - Track multiple medications and supplements with dosing schedules
+- **Medication Management** - Track all your medications, peptides, and supplements with customizable dosing schedules
 - **Dose Logging** - Log doses with one click from your daily schedule
-- **Unit Calculator** - Automatic syringe unit calculations for injectable vials
-- **Dose Timer** - Timer to properly space doses
-- **Lab Results** - Track biomarkers over time
-- **Budget Tracking** - Monitor your spending
+- **Unit Calculator** - Automatic syringe unit calculations for injectable medications
+- **Dose Timer** - Timer to properly space doses with audio alerts
+- **Lab Results** - Track biomarkers over time with AI-powered import from photos
+- **Weight Tracking** - Monitor weight trends with visual charts
+- **Budget Tracking** - Monitor your medication spending and costs
 - **Doctor Printout** - Professional patient health summary for your healthcare provider
-- **Schedule Export** - Print or email your daily schedule
+- **OCR Import** - Snap a photo of lab results and let AI extract the values
 
 ### Quick Links
 
