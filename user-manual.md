@@ -948,6 +948,38 @@ Generate formatted PDF reports:
 3. Log out and log back in
 4. Clear browser cache if issues persist
 
+### "My medication shows 0 doses but I still have some left"
+
+**Why this happens:**
+- Initial container amount was an estimate
+- A dose was logged but not actually taken
+- You started tracking mid-container
+
+**How to fix:**
+
+1. **Adjust container amount:** Edit the medication → Increase "Total Amount in Container" (for powders) or "Quantity" (for other types) to match what you actually have
+2. **For variant groups:** Click the variant showing 0 → Edit → Adjust the container amount
+3. **Remove incorrect dose logs:** Go to Doses → Find the medication → Delete any doses that weren't actually taken
+
+### "My medication shows more doses than I actually have"
+
+**How to fix:**
+- Edit the medication → Decrease the container amount
+- Or log additional doses to catch up to your actual inventory
+
+### "How do I switch which variant is active?"
+
+Click **Set Active** on any variant in the group. The system also auto-switches when your active variant runs out and another variant has doses remaining.
+
+### "Why does my inventory show a tilde (~) before the number?"
+
+The tilde (~) means "approximately." Dose counts are calculated based on:
+- Container size
+- Dose amount
+- Number of doses logged
+
+Small variations in actual dispensed amounts can cause the count to drift slightly from reality. You can always edit the medication to adjust the container amount.
+
 ---
 
 ## Support
