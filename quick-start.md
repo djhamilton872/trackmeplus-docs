@@ -124,5 +124,32 @@ Units = (0.5 ÷ (10 ÷ 2)) × 100 = 10 units
 
 ---
 
+## Mobile App
+{: .d-inline-block }
+
+Install on your phone!
+{: .label .label-purple }
+
+TrackMe+ works great on your phone as a Progressive Web App:
+
+### iPhone/iPad
+1. Open Safari, go to trackmeplus.com
+2. Log in
+3. Tap the **Share** button (square with arrow)
+4. Tap **Add to Home Screen**
+5. Tap **Add**
+
+### Android
+1. Open Chrome, go to trackmeplus.com
+2. Log in
+3. Tap the **three dots** menu
+4. Tap **Add to Home screen**
+
+Now you have an app icon on your home screen!
+
+---
+
+*Updated: January 2026 | v2.88.6*
+
 [Full User Manual]({% link user-manual.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Back to Home]({% link index.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
