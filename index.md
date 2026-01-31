@@ -27,9 +27,14 @@ TrackMe+ is a comprehensive web application for tracking your medications, pepti
 - **Dose Logging** - Log doses with one click from your daily schedule
 - **Unit Calculator** - Automatic syringe unit calculations for injectable medications
 - **Dose Timer** - Timer to properly space doses with audio alerts
+- **Supplies Tracking** - Track syringes, needles, BAC water, and other supplies with low-stock alerts
+- **Vial Grouping** - Group multiple vials of the same compound for unified inventory tracking
 - **Lab Results** - Track biomarkers over time with AI-powered import from photos
+- **Blood Pressure** - Monitor BP trends with systolic/diastolic charts
 - **Weight Tracking** - Monitor weight trends with visual charts
 - **Budget Tracking** - Monitor your medication spending and costs
+- **Receipt Scanning** - Import purchases by snapping a photo of receipts or invoices
+- **Vendor Management** - Keep track of where you buy medications and supplies
 - **Doctor Printout** - Professional patient health summary for your healthcare provider
 - **OCR Import** - Snap a photo of lab results and let AI extract the values
 
@@ -69,4 +74,4 @@ We will notify users in advance of any extended maintenance.
 
 ---
 
-*TrackMe+ v2.61.1*
+*TrackMe+ v2.88.6*
