@@ -18,12 +18,12 @@ Get up and running in under 5 minutes!
 1 minute
 {: .label .label-green }
 
-1. Go to [trackmeplus.com](https://trackmeplus.com)
+1. Go to [trackmeplus.com](https://trackmeplus.com) on your computer or phone
 2. Click **Sign Up**
 3. Enter your name, email, and password
 4. Click **Create Account**
 
-You're now logged in!
+You're in! TrackMe+ automatically detects your device and loads the right version — desktop on a computer, mobile on a phone.
 
 ---
 
@@ -33,7 +33,7 @@ You're now logged in!
 2 minutes
 {: .label .label-green }
 
-1. Click **Medications** in the navigation
+1. Click **My Medications** in the navigation
 2. Click **Add Medication**
 3. Fill in the basics:
 
@@ -60,27 +60,21 @@ Your medication is now tracking!
 1 minute
 {: .label .label-green }
 
-### From the Today Page (Easiest)
 1. Click **Today** in the navigation
 2. Find your medication in the schedule table
 3. Check the **Done** box — that's it!
 
-### Need to Log a Past Dose?
-1. On the **Today** page, use the date picker to navigate to the date
-2. Check the **Done** box for the dose you took
+Need to log a past dose? Use the date picker on the Today page to navigate back, then check it off.
 
 ---
 
-## Step 4: View Your Schedule
+## Step 4: Explore Your Dashboard
 {: .d-inline-block }
 
 30 seconds
 {: .label .label-green }
 
-1. Click **Today** in the navigation
-2. See all scheduled doses for the day
-3. Use the date picker to view other days
-4. Use the **Notes** column to add context to any dose
+Click **Dashboard** to see your stats at a glance: active medications, doses this week, total doses logged, and spending. Quick-action buttons let you jump to log a dose, add a medication, record a lab, or track a purchase.
 
 ---
 
@@ -90,9 +84,9 @@ Your medication is now tracking!
 
 - **Add more medications** as needed
 - **Log doses daily** to build your history
-- **Track lab results** to monitor progress (Settings → Labs)
+- **Track lab results** — click **Lab Results** in the nav to start tracking bloodwork
 - **Use the dose timer** to space injections
-- **Skip doses** you intentionally miss — keeps your records clean
+- **Skip doses** you intentionally miss — keeps your records honest
 
 ---
 
@@ -109,47 +103,32 @@ Your medication is now tracking!
 
 ---
 
-## Unit Calculation Reference
-
-For injectable vials, TrackMe+ automatically calculates syringe units:
-
-```
-Units = (Dose mg ÷ (Vial mg ÷ BAC water mL)) × 100
-```
-
-**Example:** 0.5mg dose from a 10mg vial reconstituted with 2mL BAC water:
-```
-Units = (0.5 ÷ (10 ÷ 2)) × 100 = 10 units
-```
-
----
-
 ## Mobile App
 {: .d-inline-block }
 
-Install on your phone!
+Works on your phone!
 {: .label .label-purple }
 
-TrackMe+ works great on your phone as a Progressive Web App:
+TrackMe+ automatically loads the mobile version when you visit [trackmeplus.com](https://trackmeplus.com) on your phone. For the best experience, install it as a home screen app:
 
 ### iPhone/iPad
-1. Open Safari, go to trackmeplus.com
-2. Log in
+1. Open **Safari** and go to trackmeplus.com
+2. Log in to your account
 3. Tap the **Share** button (square with arrow)
 4. Tap **Add to Home Screen**
 5. Tap **Add**
 
 ### Android
-1. Open Chrome, go to trackmeplus.com
-2. Log in
+1. Open **Chrome** and go to trackmeplus.com
+2. Log in to your account
 3. Tap the **three dots** menu
 4. Tap **Add to Home screen**
 
-Now you have an app icon on your home screen!
+Now you have a TrackMe+ icon on your home screen that opens like a native app!
 
 ---
 
-*Updated: February 2026 | v3.1.7*
+*Updated: February 2026 | v3.1.10*
 
 [Full User Manual]({% link user-manual.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Back to Home]({% link index.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
