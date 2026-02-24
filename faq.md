@@ -190,13 +190,17 @@ A native iOS app is in development. In the meantime, the mobile PWA provides a f
 ## Troubleshooting
 
 <details markdown="block">
-<summary>Why isn't my scheduled dose showing?</summary>
+<summary>Why isn't my scheduled dose showing on Today?</summary>
 
-Check that:
-1. Medication **Status** is "Active"
-2. **Frequency** is set correctly
-3. **Start Date** is today or earlier
-4. For weekly medications, you're on the right day
+If a medication isn't appearing on your Today dosing schedule, check these common causes:
+
+1. **Quantity on Hand is 0** — This is the most common reason. If you've used all your supply, the medication won't show on your dosing schedule. Go to **Medications**, find the medication (it will show a red "Critical" badge), tap **Edit**, and update your inventory with your new supply. Your doses will reappear immediately.
+2. **Status is not "Active"** — Only active medications show on Today. Check that Status is set to "Active" in the medication settings.
+3. **Frequency doesn't match today** — For weekly or custom-day medications, make sure today is one of your scheduled days.
+4. **Start Date is in the future** — Doses won't appear until the start date arrives.
+5. **Cycle is in washout** — If you use cycle tracking, your medication may be in an OFF/washout period.
+
+💡 **Tip:** Check your Dashboard for any red "Critical" alerts — these usually mean a medication is out of stock and needs restocking.
 </details>
 
 <details markdown="block">
