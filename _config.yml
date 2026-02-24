@@ -2,6 +2,9 @@ title: TrackMe+ Documentation
 description: User guide and documentation for TrackMe+
 remote_theme: just-the-docs/just-the-docs
 
+plugins:
+  - jekyll-sitemap
+
 url: https://docs.trackmeplus.com
 baseurl: ""
 
