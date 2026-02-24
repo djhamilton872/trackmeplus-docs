@@ -24,6 +24,7 @@ aux_links:
 aux_links_new_tab: true
 
 # Blog settings
+future: false
 show_excerpts: true
 excerpt_separator: "<!--more-->"
 paginate: 10
