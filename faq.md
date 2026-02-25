@@ -137,6 +137,22 @@ The Family plan ($19.99/month) gives you all Premium features for up to 5 family
 
 ---
 
+## Supplies
+
+<details markdown="block">
+<summary>How do I turn off low stock alerts for an item?</summary>
+
+Some supplies don't need restocking alerts — like a blood pressure cuff, pill cutter, or sharps container. Edit the supply and set the **Reorder Threshold** to **0**. The threshold will display as "Off" and the item won't appear in low stock counts or dashboard alerts.
+</details>
+
+<details markdown="block">
+<summary>What does "Off" mean for a reorder threshold?</summary>
+
+It means low stock tracking is disabled for that item. You set the reorder threshold to 0, so TrackMe+ won't flag it as low stock regardless of the quantity. This is useful for one-of-a-kind items you don't reorder.
+</details>
+
+---
+
 ## Data & Export
 
 <details markdown="block">
@@ -228,4 +244,4 @@ Two ways:
 
 ---
 
-*Updated: February 2026 | v3.1.10*
+*Updated: February 2026 | v3.1.69*
