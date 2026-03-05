@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "A Caregiver's Guide to Managing Medications for a Loved One"
-date: 2026-03-17
+date: 2026-06-16
 author: TrackMe+ Team
 description: "Managing a loved one's medications on top of your own life? Here's a caregiver's guide to staying organized without losing your mind."
 keywords: "medication tracker for caregivers, manage medications for elderly parents, how to track medications for a family member, caregiver medication management, medication tracker for elderly parents, app to manage parent's medications"

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Never Run Out Again: How to Track Your Medication Supply"
-date: 2026-03-24
+date: 2026-06-23
 author: TrackMe+ Team
 description: "Tired of running out of medications at the worst time? Here's how to track your supply and stay ahead of every refill."
 keywords: "track medication supply and refills, medication supply tracker, how to know when to refill medications, medication refill reminder, never run out of medication, medication inventory tracker"

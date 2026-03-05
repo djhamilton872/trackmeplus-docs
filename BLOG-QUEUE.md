@@ -24,8 +24,8 @@
 
 | # | Date | Title | Keywords |
 |---|------|-------|----------|
-| 10 | Mar 17 | A Caregiver's Guide to Managing Medications for a Loved One | medication tracker for caregivers, manage medications for elderly parents |
-| 11 | Mar 24 | Never Run Out Again: How to Track Your Medication Supply | track medication supply and refills, medication supply tracker |
+| 10 | Mar 17 | TrackMe+ vs Medisafe: Which Medication Tracker Is Right for You? | TrackMe+ vs Medisafe, medication tracker comparison, Medisafe alternative |
+| 11 | Mar 24 | How to Switch Medication Trackers Without Losing Your Mind | switch medication tracker, medisafe alternative, how to switch medication apps |
 | 12 | Mar 31 | Why Tracking Your Lab Results Matters (And How to Actually Do It) | lab results tracker app, track lab results |
 | 13 | Apr 07 | The Best Supplement Tracker Apps in 2026: What to Look For | supplement tracker app, best supplement tracker |
 | 14 | Apr 14 | Medication Adherence: What It Is and Why Your Doctor Cares About It | medication adherence, medication compliance |
@@ -37,7 +37,8 @@
 | 20 | May 26 | Drug Interactions and Your Medication List: Why Knowing What You Take Matters | drug interactions, medication interactions, medication safety, medication list |
 | 21 | Jun 02 | Caregiver Medication Management: How to Stay Organized Without Burning Out | caregiver medication management, caregiver stress, caregiver burnout |
 | 22 | Jun 09 | How to Spot Health Trends in Your Lab Results Over Time | lab results tracking, lab results history, health trends |
-| 23 | Jun 16 | TrackMe+ vs Medisafe: A Detailed Comparison for 2026 | TrackMe+ vs Medisafe, medication tracker comparison, Medisafe alternative |
+| 23 | Jun 16 | A Caregiver's Guide to Managing Medications for a Loved One | medication tracker for caregivers, manage medications for elderly parents |
+| 24 | Jun 23 | Never Run Out Again: How to Track Your Medication Supply | track medication supply and refills, medication supply tracker |
 
 ## Up Next (Briefs Ready, Not Yet Written)
 
@@ -47,9 +48,10 @@
 
 ## Queue Health
 
-**Scheduled posts remaining:** 14
-**Weeks of content ready:** ~15 (through Jun 16)
-**Status:** 🟢 HEALTHY — queue runs through mid-June
+**Scheduled posts remaining:** 15
+**Weeks of content ready:** ~16 (through Jun 23)
+**Status:** 🟢 HEALTHY — queue runs through late June
+**Medisafe campaign posts:** Mar 17 (comparison) + Mar 24 (switching guide) — PRIORITIZED
 
 **Rule:** When scheduled posts drop to 4 or fewer weeks, plan the next batch. Start writing when below 4 weeks of runway.
 
