@@ -39,6 +39,9 @@
 | 22 | Jun 09 | How to Spot Health Trends in Your Lab Results Over Time | lab results tracking, lab results history, health trends |
 | 23 | Jun 16 | A Caregiver's Guide to Managing Medications for a Loved One | medication tracker for caregivers, manage medications for elderly parents |
 | 24 | Jun 23 | Never Run Out Again: How to Track Your Medication Supply | track medication supply and refills, medication supply tracker |
+| 25 | Jun 30 | Polypharmacy: How to Manage 5 or More Medications Safely | polypharmacy, managing multiple medications, medication safety |
+| 26 | Jul 07 | How to Organize Your Medicine Cabinet (And Actually Keep It That Way) | organize medicine cabinet, medicine cabinet organization, medication storage |
+| 27 | Jul 14 | Dangerous Drug Interactions: A Checklist You Should Have Before Your Next Appointment | drug interactions, dangerous drug interactions, medication interactions checklist |
 
 ## Up Next (Briefs Ready, Not Yet Written)
 
@@ -48,13 +51,14 @@
 
 ## Queue Health
 
-**Scheduled posts remaining:** 15
-**Weeks of content ready:** ~16 (through Jun 23)
-**Status:** 🟢 HEALTHY — queue runs through late June
-**Medisafe campaign posts:** Mar 17 (comparison) + Mar 24 (switching guide) — PRIORITIZED
+**Scheduled posts remaining:** 18
+**Weeks of content ready:** ~19 (through Jul 14)
+**Status:** 🟢 HEALTHY — queue runs through mid-July
+**SEO Tier 1 posts:** Jun 30 (polypharmacy) + Jul 07 (medicine cabinet) + Jul 14 (drug interactions)
+**Medisafe campaign posts:** Mar 17 (comparison) + Mar 24 (switching guide)
 
 **Rule:** When scheduled posts drop to 4 or fewer weeks, plan the next batch. Start writing when below 4 weeks of runway.
 
 ---
 
-*Last updated: 2026-03-05*
+*Last updated: 2026-03-06*
