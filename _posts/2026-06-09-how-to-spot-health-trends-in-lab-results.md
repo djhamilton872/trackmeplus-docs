@@ -91,4 +91,6 @@ When you bring a full history instead of a single number, your doctor has better
 
 That's the power of tracking lab results over time. It's not complex. It's just paying attention.
 
-*TrackMe+ tracks medications, lab results, blood pressure, weight, supplies, and health costs in one app. Free to start at [trackmeplus.com](https://trackmeplus.com).*
+---
+
+*Your data, organized. [Try TrackMe+ free](https://trackmeplus.com).*

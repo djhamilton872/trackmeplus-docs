@@ -93,4 +93,4 @@ Both are solid apps. The question is whether you need a pill reminder or a compr
 
 ---
 
-*TrackMe+ tracks medications, lab results, blood pressure, weight, supplies, and health costs in one app. Free to start at [trackmeplus.com](https://trackmeplus.com).*
+*See the difference yourself. [Try TrackMe+ free](https://trackmeplus.com).*

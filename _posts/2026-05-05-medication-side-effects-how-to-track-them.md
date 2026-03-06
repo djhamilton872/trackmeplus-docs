@@ -110,4 +110,4 @@ That's powerful. That's all it needs to be.
 
 ---
 
-*TrackMe+ tracks medications, lab results, blood pressure, weight, supplies, and health costs in one app. Free to start at [trackmeplus.com](https://trackmeplus.com).*
+*Give your doctor the full picture. [Try TrackMe+ free](https://trackmeplus.com).*

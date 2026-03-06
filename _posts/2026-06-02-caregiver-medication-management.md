@@ -72,4 +72,6 @@ You don't have to overhaul everything today. Start with one thing:
 
 Then build from there. One system at a time. One week at a time. The goal isn't perfection. The goal is removing enough friction that you can actually manage without losing your mind.
 
-*TrackMe+ tracks medications, lab results, blood pressure, weight, supplies, and health costs in one app. Free to start at [trackmeplus.com](https://trackmeplus.com).*
+---
+
+*One less thing to worry about. [Try TrackMe+ free](https://trackmeplus.com).*

@@ -107,4 +107,4 @@ Your health data should work for you, not trap you.
 
 ---
 
-*TrackMe+ tracks medications, lab results, blood pressure, weight, supplies, and health costs in one app. Free to start at [trackmeplus.com](https://trackmeplus.com).*
+*Ready to switch? [Try TrackMe+ free](https://trackmeplus.com) or read our [User Guide](/user-manual.html).*

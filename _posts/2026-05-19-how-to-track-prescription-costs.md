@@ -58,4 +58,6 @@ Once you've done it for a month or two, you'll see the rhythm of your own spendi
 
 If you want to reduce the friction, having one place where you log medications, supplies, and costs (rather than a notebook and a credit card statement and your pharmacy's text alerts) saves time and reduces mental load. When you're managing your own health or supporting someone else's, every minute of cognitive burden you can lift matters.
 
-*TrackMe+ tracks medications, lab results, blood pressure, weight, supplies, and health costs in one app. Free to start at [trackmeplus.com](https://trackmeplus.com).*
+---
+
+*Know what your health actually costs. [Try TrackMe+ free](https://trackmeplus.com).*

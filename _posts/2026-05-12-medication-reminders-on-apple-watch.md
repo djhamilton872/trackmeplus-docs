@@ -118,4 +118,4 @@ That simplicity is power. That's why so many people find that switching to a Wat
 
 ---
 
-*TrackMe+ tracks medications, lab results, blood pressure, weight, supplies, and health costs in one app. Free to start at [trackmeplus.com](https://trackmeplus.com).*
+*Track from your wrist. [Try TrackMe+ free](https://trackmeplus.com).*

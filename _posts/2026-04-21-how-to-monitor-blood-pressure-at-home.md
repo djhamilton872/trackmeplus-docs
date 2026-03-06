@@ -94,4 +94,4 @@ The easier you make the logging process, the more likely you are to stick with i
 
 ---
 
-*TrackMe+ tracks medications, lab results, blood pressure, weight, supplies, and health costs in one app. Free to start at [trackmeplus.com](https://trackmeplus.com).*
+*Track your blood pressure alongside your medications. [Try TrackMe+ free](https://trackmeplus.com).*

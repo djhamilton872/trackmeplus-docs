@@ -79,4 +79,6 @@ What we do is help you organize and maintain a complete, accurate medication lis
 
 Because the truth is: the best interaction checker in the world is a pharmacist who can see everything you're taking. Our job is to make sure they can.
 
-*TrackMe+ tracks medications, lab results, blood pressure, weight, supplies, and health costs in one app. Free to start at [trackmeplus.com](https://trackmeplus.com).*
+---
+
+*Keep your medication list complete and shareable. [Try TrackMe+ free](https://trackmeplus.com).*
