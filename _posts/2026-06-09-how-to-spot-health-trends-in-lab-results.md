@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Spot Health Trends in Your Lab Results Over Time"
 date: 2026-06-09
 author: TrackMe+ Team

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Keep Track of Multiple Medications Without Losing Your Mind"
 date: 2026-01-22
 author: TrackMe+ Team

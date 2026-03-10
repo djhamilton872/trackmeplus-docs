@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Polypharmacy: How to Manage 5 or More Medications Safely"
 date: 2026-06-30
 description: "Taking 5+ medications? Learn how to manage polypharmacy safely with practical tips for organizing, tracking, and staying on top of a complex medication routine."

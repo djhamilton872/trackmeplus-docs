@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Best Supplement Tracker Apps in 2026: What to Look For"
 date: 2026-04-07
 author: TrackMe+ Team

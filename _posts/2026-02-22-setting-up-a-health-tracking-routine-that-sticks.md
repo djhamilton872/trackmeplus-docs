@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Setting Up a Health Tracking Routine That Actually Sticks"
 date: 2026-02-22
 author: TrackMe+ Team

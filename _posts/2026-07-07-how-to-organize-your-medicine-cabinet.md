@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Organize Your Medicine Cabinet (And Actually Keep It That Way)"
 date: 2026-07-07
 description: "A practical guide to organizing your medicine cabinet, clearing expired medications, and building a system that keeps your medications safe and accessible."

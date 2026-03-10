@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Dangerous Drug Interactions: A Checklist You Should Have Before Your Next Appointment"
 date: 2026-07-14
 description: "Common dangerous drug interactions everyone should know about, plus a practical checklist for keeping your doctor and pharmacist informed about everything you take."

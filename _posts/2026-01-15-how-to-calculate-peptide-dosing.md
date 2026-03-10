@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Calculate Peptide Dosing: A Complete Guide"
 date: 2026-01-15
 author: TrackMe+ Team

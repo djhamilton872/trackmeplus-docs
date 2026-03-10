@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Medication Side Effects: How to Track Them and Talk to Your Doctor"
 date: 2026-05-05
 author: TrackMe+ Team

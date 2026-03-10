@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Why Tracking Your Lab Results Matters (And How to Actually Do It)"
 date: 2026-03-31
 author: TrackMe+ Team

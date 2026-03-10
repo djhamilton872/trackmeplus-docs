@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Track Your Lab Results Over Time"
 date: 2026-02-08
 author: TrackMe+ Team

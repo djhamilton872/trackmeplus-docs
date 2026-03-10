@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Weight Tracking That Actually Works: How to Log Consistently and Spot Trends"
 date: 2026-04-28
 author: TrackMe+ Team

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Monitor Your Blood Pressure at Home: A Complete Guide"
 date: 2026-04-21
 author: TrackMe+ Team

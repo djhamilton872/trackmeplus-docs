@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "The Hidden Cost of Medications: Why You Should Track What You Spend"
 date: 2026-03-10
 author: TrackMe+ Team

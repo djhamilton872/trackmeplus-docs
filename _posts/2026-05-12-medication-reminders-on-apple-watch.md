@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Medication Reminders on Apple Watch: Stay on Track From Your Wrist"
 date: 2026-05-12
 author: TrackMe+ Team

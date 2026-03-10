@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "What to Bring to Your Doctor's Appointment (And Why a Medication Log Matters)"
 date: 2026-02-01
 author: TrackMe+ Team

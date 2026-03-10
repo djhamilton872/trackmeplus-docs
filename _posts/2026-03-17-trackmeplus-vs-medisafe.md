@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "TrackMe+ vs Medisafe: Which Medication Tracker Is Right for You?"
 date: 2026-03-17
 description: "Compare TrackMe+ and Medisafe side by side. See how features, pricing, and platform support stack up to find the best medication tracking app for you."

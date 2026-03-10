@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "A Caregiver's Guide to Managing Medications for a Loved One"
 date: 2026-06-16
 author: TrackMe+ Team

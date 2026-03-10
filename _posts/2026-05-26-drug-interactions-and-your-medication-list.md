@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Drug Interactions and Your Medication List: Why Knowing What You Take Matters"
 date: 2026-05-26
 author: TrackMe+ Team

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Track Supplements Alongside Your Prescriptions"
 date: 2026-02-17
 author: TrackMe+ Team

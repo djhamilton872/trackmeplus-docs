@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Never Run Out Again: How to Track Your Medication Supply"
 date: 2026-06-23
 author: TrackMe+ Team

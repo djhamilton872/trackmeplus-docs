@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "5 Things Your Pill Reminder App Should Do (But Probably Doesn't)"
 date: 2026-03-03
 author: TrackMe+ Team

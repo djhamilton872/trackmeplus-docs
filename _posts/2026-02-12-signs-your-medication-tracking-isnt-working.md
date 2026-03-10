@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "5 Signs Your Medication Tracking System Isn't Working"
 date: 2026-02-12
 author: TrackMe+ Team

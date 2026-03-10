@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Medication Adherence: What It Is and Why Your Doctor Cares About It"
 date: 2026-04-14
 author: TrackMe+ Team

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Switch Medication Trackers Without Losing Your Mind"
 date: 2026-03-24
 description: "A practical guide to switching medication apps, including step-by-step instructions and tips to save time with data imports."

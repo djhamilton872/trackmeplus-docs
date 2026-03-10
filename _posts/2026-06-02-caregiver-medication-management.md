@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Caregiver Medication Management: How to Stay Organized Without Burning Out"
 date: 2026-06-02
 author: TrackMe+ Team

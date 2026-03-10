@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "How to Track Prescription Costs and Find Savings on Your Medications"
 date: 2026-05-19
 author: TrackMe+ Team
