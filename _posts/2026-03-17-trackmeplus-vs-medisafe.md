@@ -69,7 +69,7 @@ This is where things have shifted in 2026.
 
 **TrackMe+ Standard:** $6.99/month. Unlimited medications, 50 lab results per year, smart scheduling, budget and spending tracking, supply and inventory management, priority support. Includes a 14-day free trial.
 
-**TrackMe+ Premium:** $14.99/month. Everything in Standard plus unlimited lab results, AI scanning for labs and receipts, PDF export and reports, dose calculator, and early access to new features.
+**TrackMe+ Premium:** $14.99/month. Everything in Standard plus unlimited lab results, AI scanning for labs and receipts, printable reports (save as PDF via your OS), dose calculator, and early access to new features.
 
 **TrackMe+ Family:** $19.99/month for up to 4 members.
 

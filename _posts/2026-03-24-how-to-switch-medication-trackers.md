@@ -50,22 +50,20 @@ Export to CSV if available, or a printable report. If your app doesn't support e
 
 Pro tip: Most trackers don't export reminder times or frequency settings in a useful way. You might need to photograph that part of your screen or write it down quickly.
 
-## Step 3: Prepare Your Data for Import (Optional, But Smart)
+## Step 3: Organize Your Data Before You Start
 
-Here's where you can save real time. Some trackers, including TrackMe+, support CSV import. Instead of manually clicking through dozens of forms, you can upload a spreadsheet.
+Here's where a little prep saves a lot of time. Before you start adding medications to your new tracker, organize what you have into a simple list.
 
-If your new tracker supports CSV import, download their template (for TrackMe+, it's at `/import/template/compounds`).
-
-The required columns are straightforward:
+Open a note on your phone or a spreadsheet and write down:
 - **name:** Medication name (e.g., "Metformin")
 - **form:** Tablet, capsule, liquid, injection, etc.
-- **dosage:** The strength (e.g., "500")
-- **dosage_unit:** mg, mcg, mL, etc.
+- **dosage:** The strength (e.g., "500 mg")
 - **frequency:** How often you take it (e.g., "twice daily")
+- **reminder times:** When you want to be notified
 
-Optional columns let you add more detail: notes, units on hand, injection site, syringe size, and custom reminder days. Start with the required columns. You can add the rest later if needed.
+Having this reference list means you can move through the setup screens quickly without flipping back and forth between apps. If your new tracker has AI scanning (like TrackMe+ Premium), you can photograph prescription labels or pharmacy printouts instead of typing everything manually.
 
-This approach takes maybe 15 minutes instead of 45 minutes of clicking through individual med screens.
+This approach takes maybe 15 minutes of prep and saves you from second-guessing every entry.
 
 ## Step 4: Set Up Reminders and Verify Everything
 
@@ -95,7 +93,7 @@ If the answer is "no" or "it's complicated," you're just recreating the same loc
 
 ## Making the Final Decision
 
-If you're comparing trackers and one of them is Medisafe, here's what's changed. Medisafe's free tier is now capped at 2 medications. If you need more than that, it's a hard limitation. TrackMe+ Free supports 3 medications and includes CSV import templates, so you're already ahead on portability.
+If you're comparing trackers and one of them is Medisafe, here's what's changed. Medisafe's free tier is now capped at 2 medications. If you need more than that, it's a hard limitation. TrackMe+ Free supports 3 medications and includes full CSV export of your data, so you're never locked in.
 
 Beyond that, think about what else you want to track. If you're managing a chronic condition, logs, or family medications, you probably want a tracker that lets you see the bigger picture alongside your doses.
 
