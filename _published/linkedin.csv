@@ -3,5 +3,37 @@ date|post_id|platform|status|content|text_hash|campaign|topic
 2026-03-26|69c16f67c935ea861a51a54a|linkedin|PUBLISHED|LinkedIn: What happens to your data if this app shuts down?|ff36384619b87649|march-week4-2026|data-ownership
 2026-03-30|69c170741055a3e26ee746e3|linkedin|SCHEDULED|LinkedIn: all-in-one integration hypothesis — solo founder story|ebd75dd8cc4f93a6|march-week4-2026|all-in-one
 2026-04-02|69c6e576c5bc51179d76748b|linkedin|SCHEDULED|Lab results: know your numbers not just 'fine'|7956cb24419fb9cb|april-week1-2026|lab-results
-2026-04-07|69c870214137ed0a8244a4eb|linkedin|SCHEDULED|W2-LI1|7:30 AM CT Mon|april-week2-2026|content-series
-2026-04-09|69c870364137ed0a8244a776|linkedin|SCHEDULED|W2-LI2|7:30 AM CT Wed|april-week2-2026|content-series
+2026-04-07|69c870214137ed0a8244a4eb|linkedin|SCHEDULED|"There are roughly 53 million family caregivers in the US. Most of them have zero medical training.
+
+They're managing medication schedules for aging parents, tracking lab results they barely understand, and trying to coordinate between multiple doctors who don't always talk to each other.
+
+I think about this a lot while building TrackMe+. The healthcare system assumes patients manage their own care, but the reality is that millions of family members are doing it instead. And the tools available to them are basically... a pill organizer and a notebook.
+
+That's a gap worth closing.
+
+When I designed TrackMe+, the caregiver use case was always front of mind. A Family Plan so you can set up a dedicated account for the person you're caring for. Medication schedules organized by time of day. Lab results you can actually trend over time instead of losing in a stack of papers.
+
+It's not about replacing medical professionals. It's about giving caregivers a fighting chance at keeping everything organized.
+
+If you know a family caregiver, send them something useful this week. They probably won't ask for help themselves.
+
+#HealthTech #Caregiving #DigitalHealth"|d975360a7c5ad8a0|april-week2-2026|content-series
+2026-04-09|69c870364137ed0a8244a776|linkedin|SCHEDULED|"I've talked to a lot of caregivers while building TrackMe+. Here's what I keep hearing:
+
+They don't want another app that sends 47 notifications a day. They want something that just works quietly in the background and keeps things organized.
+
+The features they actually care about might surprise you. It's not AI-powered anything or voice-activated whatever. It's:
+
+Can I see all of Mom's medications in one place?
+Can I track when she took her morning dose?
+Can I look up her last lab results without digging through a folder?
+
+Simple stuff. Executed well.
+
+The health tech industry loves to build for the ""empowered patient"" persona. But a huge chunk of actual users are family members who didn't choose this role and are learning as they go.
+
+Building for caregivers means building for simplicity, reliability, and peace of mind. Not feature bloat.
+
+That's the lens I try to keep at TrackMe+. Every feature has to pass the test: would this actually help someone managing their parent's medications at 6am before their own workday starts?
+
+#HealthTech #CaregiverTech #ProductDesign"|3bae18642ea004cb|april-week2-2026|content-series

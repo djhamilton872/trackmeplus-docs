@@ -18,7 +18,23 @@ date|post_id|platform|status|content|text_hash|campaign|topic
 2026-03-28|69c6e565c82d8cf2de3ac3f4|twitter|PUBLISHED|Weekend health tracking — stay consistent|66f4e2b71fdcf12e|march-week4-2026|weekend-consistency
 2026-03-29|69c6e56db726c546a907bb89|twitter|SCHEDULED|Sunday reset — review your health logs|d8a48ec44246d1a1|march-week4-2026|week-prep
 2026-04-02|69c6e58ac5bc51179d76769f|twitter|SCHEDULED|Lab results: your doctor can, can you?|ac01fef80b90af56|april-week1-2026|lab-results
-2026-04-03|69c8701a4137ed0a8244a457|twitter|SCHEDULED|W1-A3|9:00 AM CT Thu|april-week1-2026|content-series
-2026-04-07|69c870244137ed0a8244a511|twitter|SCHEDULED|W2-A1|9:00 AM CT Mon|april-week2-2026|content-series
-2026-04-08|69c8702d49c5ffc657f9675e|twitter|SCHEDULED|W2-A2|9:00 AM CT Tue|april-week2-2026|content-series
-2026-04-09|69c8703949c5ffc657f9685a|twitter|SCHEDULED|W2-A3|9:00 AM CT Wed|april-week2-2026|content-series
+2026-04-03|69c8701a4137ed0a8244a457|twitter|SCHEDULED|"Your doctor orders labs. You get the results. Then what?
+
+Tracking lab results over time helps you spot trends worth discussing at your next visit.
+
+docs.trackmeplus.com"|0d446b938ea90673|april-week1-2026|content-series
+2026-04-07|69c870244137ed0a8244a511|twitter|SCHEDULED|"Managing meds for a parent or loved one? It's a lot to keep straight.
+
+TrackMe+ Family Plan lets you set up a dedicated account for them. Track their medications, labs, and schedules separately from yours. Up to 4 people covered.
+
+trackmeplus.com"|8a027551d951f7b2|april-week2-2026|content-series
+2026-04-08|69c8702d49c5ffc657f9675e|twitter|SCHEDULED|"Caregiving for a parent? Set up a TrackMe+ account for them.
+
+Track their medications, labs, BP, and weight. Family Plan covers up to 4 people at $19.99/month. Each person gets their own full-featured account.
+
+trackmeplus.com"|7e173139adb4f47e|april-week2-2026|content-series
+2026-04-09|69c8703949c5ffc657f9685a|twitter|SCHEDULED|"""Mom takes 7 medications. I was using sticky notes and a spreadsheet.""
+
+Sound familiar? TrackMe+ replaces the chaos with one app. Doses, refills, labs, all tracked.
+
+trackmeplus.com"|39ee6496910713ee|april-week2-2026|content-series
