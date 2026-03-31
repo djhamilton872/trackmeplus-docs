@@ -17,7 +17,27 @@ date|post_id|platform|status|content|text_hash|campaign|topic
 2026-03-31|69c1b7d2f477fd588dce991d|bluesky|SCHEDULED|Washout windows matter. Dose too soon and you're guessing. TrackMe+ Dose Cycles logs active cycles, tracks when washout starts, and lets you rate effectiveness when you close out. A real record of what worked and when. trackmeplus.com|2c748a291601030e|march-week4-2026|dose-cycles
 2026-03-28|69c6e565c82d8cf2de3ac3f4|bluesky|PUBLISHED|Weekend health tracking — stay consistent|66f4e2b71fdcf12e|march-week4-2026|weekend-consistency
 2026-03-29|69c6e56db726c546a907bb89|bluesky|PUBLISHED|Sunday reset — review your health logs|d8a48ec44246d1a1|march-week4-2026|week-prep
-2026-04-03|69c8701a4137ed0a8244a457|bluesky|SCHEDULED|W1-A3|9:00 AM CT Thu|april-week1-2026|content-series
-2026-04-07|69c870244137ed0a8244a511|bluesky|SCHEDULED|W2-A1|9:00 AM CT Mon|april-week2-2026|content-series
-2026-04-08|69c8702d49c5ffc657f9675e|bluesky|SCHEDULED|W2-A2|9:00 AM CT Tue|april-week2-2026|content-series
-2026-04-09|69c8703949c5ffc657f9685a|bluesky|SCHEDULED|W2-A3|9:00 AM CT Wed|april-week2-2026|content-series
+2026-04-03|69c8701a4137ed0a8244a457|bluesky|SCHEDULED|"Your doctor orders labs. You get the results. Then what?
+
+Tracking lab results over time helps you spot trends worth discussing at your next visit.
+
+docs.trackmeplus.com"|0d446b938ea90673|april-week1-2026|content-series
+2026-04-07|69c870244137ed0a8244a511|bluesky|SCHEDULED|"Managing meds for a parent or loved one? It's a lot to keep straight.
+
+TrackMe+ Family Plan lets you set up a dedicated account for them. Track their medications, labs, and schedules separately from yours. Up to 4 people covered.
+
+trackmeplus.com"|8a027551d951f7b2|april-week2-2026|content-series
+2026-04-08|69c8702d49c5ffc657f9675e|bluesky|SCHEDULED|"Caregiving for a parent? Set up a TrackMe+ account for them.
+
+Track their medications, labs, BP, and weight. Family Plan covers up to 4 people at $19.99/month. Each person gets their own full-featured account.
+
+trackmeplus.com"|7e173139adb4f47e|april-week2-2026|content-series
+2026-04-09|69c8703949c5ffc657f9685a|bluesky|SCHEDULED|"""Mom takes 7 medications. I was using sticky notes and a spreadsheet.""
+
+Sound familiar? TrackMe+ replaces the chaos with one app. Doses, refills, labs, all tracked.
+
+trackmeplus.com"|39ee6496910713ee|april-week2-2026|content-series
+2026-04-18|69c86ee74cab31663c8a0bc0|bluesky|SCHEDULED|Your lab results tell a story over time. One abnormal reading might be noise. A trend over months is a signal worth disc|b12662091f66e351|april-week3-2026|lab-tracking
+2026-04-21|69c86eef4cab31663c8a0c52|bluesky|SCHEDULED|Do you know what you spend on medications each month? Most people don't.|28af0108a37dadc5|april-week4-2026|health-budget
+2026-04-04|69cbbba1b4bd6620e5526f17|bluesky|SCHEDULED|Health tracking doesn't have to be a chore.|5f1fdbf3f57d1df4|april-gap-2026|daily-routine
+2026-04-06|69cbbbaa02b7f62a5820a2ac|bluesky|SCHEDULED|Managing someone else's medications? You're not the only one.|8e43c6b081beaf07|april-gap-2026|caregiver
