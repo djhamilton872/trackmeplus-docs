@@ -4,7 +4,7 @@ date|post_id|platform|status|content|text_hash|campaign|topic
 2026-03-26|69c16f6ec935ea861a51a65d|facebook|PUBLISHED|Data ownership expanded: years of health data held hostage by apps|497f04dec1cd3aa5|march-week4-2026|data-ownership
 2026-03-27|69c16f8ef4d01252241c3e0e|facebook|PUBLISHED|Blog promo expanded: practical guide for switching medication trackers|b93172a612af8804|march-week4-2026|blog-promo
 2026-03-30|69c1707a816dece94da51f5d|facebook|PUBLISHED|All-in-one expanded: four logins four data silos no full picture|f7d3e8d30cfc8bc2|march-week4-2026|all-in-one
-2026-03-31|69c1b7d9da6152af25e05686|facebook|SCHEDULED|"Washout windows matter more than most people track.
+2026-03-31|69c1b7d9da6152af25e05686|facebook|PUBLISHED|"Washout windows matter more than most people track.
 
 TrackMe+ Dose Cycles logs each compound cycle from start to finish: start date, planned duration, washout period. Close out a cycle, rate effectiveness, note any side effects. Over time you build a real record of what worked and when you were ready to start again.
 
@@ -54,3 +54,7 @@ trackmeplus.com
 
 #CaregiverStory #MedManagement #AgingParents #HealthOrganization #TrackMePlus"|9bcbc16efa1ad8ac|april-week2-2026|content-series
 2026-04-01|69c9977c43da8d5fcf0e0ef0|facebook|SCHEDULED|Meds in one app. Labs in another. Blood pressure in a notebook. Costs in... nowhere, probably.|9d68c426524cfb01|april-week1-2026|content-series
+2026-04-18|69c86eea|facebook|SCHEDULED|One lab report is a snapshot. A year of lab reports is a story.|111e5f16a1d480f7|april-week3-2026|lab-tracking
+2026-04-21|69c86ef2|facebook|SCHEDULED|Here's a number most people can't answer off the top of their head: what do you spend on health each month?|2a402e18cd446c44|april-week4-2026|health-budget
+2026-04-04|69cbbba402b7f62a5820a1e4|facebook|SCHEDULED|Consistent tracking is the difference between reacting to your health and managing it.|7112942301368e4f|april-gap-2026|daily-routine
+2026-04-06|69cbbbadb4bd6620e552716c|facebook|SCHEDULED|53 million Americans are managing someone else's health. A parent's prescriptions. A spouse's lab results. A child's med|1f648e901bd47355|april-gap-2026|caregiver
