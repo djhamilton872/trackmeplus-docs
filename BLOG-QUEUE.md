@@ -32,8 +32,8 @@
 | 15 | Apr 21 | How to Monitor Your Blood Pressure at Home: A Complete Guide | blood pressure tracking, home blood pressure monitor, hypertension management |
 | 16 | Apr 28 | Weight Tracking That Actually Works: How to Log Consistently and Spot Trends | weight tracking app, weight trend tracking, weight management |
 | 17 | May 05 | Medication Side Effects: How to Track Them and Talk to Your Doctor | medication side effects tracking, side effects diary, side effects reporting |
-| 18 | May 12 | Medication Reminders on Apple Watch: Stay on Track From Your Wrist | Apple Watch medication reminder, smartwatch medication tracking, wearable health app |
-| 19 | May 19 | How to Track Prescription Costs and Find Savings on Your Medications | prescription cost tracking, medication budget, pharmacy spending |
+| 18 | May 12 | Peptide Dose Calculator: Reconstitution, Injection Volume, and Vial Math | peptide dose calculator, reconstitution, injection volume, doses per vial |
+| 19 | May 19 | How to Track Lab Results Over Time: A Practical Guide | track lab results, lab result tracking, blood work trends, health tracking |
 | 20 | May 26 | Drug Interactions and Your Medication List: Why Knowing What You Take Matters | drug interactions, medication interactions, medication safety, medication list |
 | 21 | Jun 02 | Caregiver Medication Management: How to Stay Organized Without Burning Out | caregiver medication management, caregiver stress, caregiver burnout |
 | 22 | Jun 09 | How to Spot Health Trends in Your Lab Results Over Time | lab results tracking, lab results history, health trends |
@@ -61,4 +61,4 @@
 
 ---
 
-*Last updated: 2026-03-06*
+*Last updated: 2026-04-08 -- Session 75. Replaced May 12 (Apple Watch, removed feature) and May 19 (prescription costs, removed feature) with feature-accurate content.*
