@@ -81,7 +81,7 @@ Don't just throw expired medications in the trash or flush them down the toilet 
 
 A clean medicine cabinet handles the physical side, but the digital side matters just as much. Knowing what you take, when you take it, when it expires, and when you need refills is information that belongs somewhere more reliable than your memory.
 
-TrackMe+ lets you track every medication alongside your labs, blood pressure, supplements, and health spending. You can set reminders so your daily medications don't get missed, and track supply levels so you know when to reorder before you run out. Having that complete picture in one place makes your organized cabinet even more useful, because now you have a system where the physical and digital sides back each other up.
+TrackMe+ lets you track every medication alongside your labs, blood pressure, and weight. Set reminders so your daily medications don't get missed, and the dose history log means you always know exactly what you took and when. Having that complete picture in one place makes your organized cabinet even more useful--the physical and digital sides back each other up.
 
 ---
 

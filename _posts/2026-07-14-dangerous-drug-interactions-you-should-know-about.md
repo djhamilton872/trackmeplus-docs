@@ -76,7 +76,7 @@ Here's the thing about drug interactions: your doctor and pharmacist are trained
 
 That means the single most powerful thing you can do is maintain a complete, current list of everything you take and make it available at every appointment, pharmacy visit, and ER trip. Not a rough idea of what you take. The actual list, with doses and frequencies.
 
-[TrackMe+](https://trackmeplus.com) keeps your complete medication list in one place, synced across your iPhone, Mac, and Apple Watch. When you add a new medication or stop an old one, the list updates everywhere. You can pull it up in a doctor's office in seconds, or share it from your phone at the pharmacy counter.
+[TrackMe+](https://trackmeplus.com) keeps your complete medication list in one place. When you add a new medication or stop an old one, the list updates immediately. You can pull it up in a browser in seconds, or share it from your phone at the pharmacy counter.
 
 ## How TrackMe+ Helps You Stay Ahead of Interactions
 

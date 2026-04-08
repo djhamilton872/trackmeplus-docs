@@ -37,9 +37,6 @@
 | 20 | May 26 | Drug Interactions and Your Medication List: Why Knowing What You Take Matters | drug interactions, medication interactions, medication safety, medication list |
 | 21 | Jun 02 | Caregiver Medication Management: How to Stay Organized Without Burning Out | caregiver medication management, caregiver stress, caregiver burnout |
 | 22 | Jun 09 | How to Spot Health Trends in Your Lab Results Over Time | lab results tracking, lab results history, health trends |
-| 23 | Jun 16 | A Caregiver's Guide to Managing Medications for a Loved One | medication tracker for caregivers, manage medications for elderly parents |
-| 24 | Jun 23 | Never Run Out Again: How to Track Your Medication Supply | track medication supply and refills, medication supply tracker |
-| 25 | Jun 30 | Polypharmacy: How to Manage 5 or More Medications Safely | polypharmacy, managing multiple medications, medication safety |
 | 26 | Jul 07 | How to Organize Your Medicine Cabinet (And Actually Keep It That Way) | organize medicine cabinet, medicine cabinet organization, medication storage |
 | 27 | Jul 14 | Dangerous Drug Interactions: A Checklist You Should Have Before Your Next Appointment | drug interactions, dangerous drug interactions, medication interactions checklist |
 
@@ -61,4 +58,4 @@
 
 ---
 
-*Last updated: 2026-04-08 -- Session 75. Replaced May 12 (Apple Watch, removed feature) and May 19 (prescription costs, removed feature) with feature-accurate content.*
+*Last updated: 2026-04-08 -- Session 75. Replaced May 12 (Apple Watch, removed feature) and May 19 (prescription costs, removed feature). Removed Jun 16 (family plan/supply tracking), Jun 23 (supply tracking), Jun 30 (health budget/supply/platform claims). Fixed Jul 07 and Jul 14 (removed false platform/feature claims). All posts now verified against v1.0 features.md.*
