@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "TrackMe+ - Your complete health and medication tracking solution"
+description: "TrackMe+ - Free medication and health tracking"
 permalink: /
 ---
 
@@ -19,33 +19,32 @@ Your complete guide to tracking medications, supplements, and health data.
 
 ## What is TrackMe+?
 
-TrackMe+ is a comprehensive web application for tracking your medications, peptides, supplements, and related health data. Born from peptide tracking, built for everything.
+TrackMe+ is a free web application for tracking your medications, peptides, supplements, and related health data. Born from peptide tracking, built for everything. No subscription required — everything is included at no cost.
 
 ### Key Features
 
-- **Medication Management** - Track all your medications, peptides, and supplements with customizable dosing schedules
-- **Dose Logging** - Log doses with one click from your daily schedule
-- **Skip & Multi-Skip Doses** - Skip individual doses or multiple at once with a reason, keeping your history accurate
-- **Unit Calculator** - Automatic syringe unit calculations for injectable medications
-- **Dose Timer** - Timer to properly space doses with audio alerts
-- **Supplies Tracking** - Track syringes, needles, BAC water, and other supplies with low-stock alerts
-- **Vial Grouping** - Group multiple vials of the same compound for unified inventory tracking
-- **Lab Results** - Track biomarkers over time with AI-powered import from photos
-- **Blood Pressure** - Monitor BP trends with systolic/diastolic charts
-- **Weight Tracking** - Monitor weight trends with visual charts
-- **Budget Tracking** - Monitor your medication spending and costs
-- **Receipt Scanning** - Import purchases by snapping a photo of receipts or invoices, with item-by-item selection
-- **Vendor Management** - Keep track of where you buy medications and supplies
-- **Doctor Printout** - Professional patient health summary for your healthcare provider
-- **OCR Import** - Snap a photo of lab results and let AI extract the values
-- **Export All Data** - Download your complete data as a ZIP file for backup or portability
-- **Dark Mode** - Full dark mode support across desktop and mobile
+- **Medication Management** — Track all your medications, peptides, and supplements with customizable dosing schedules
+- **Dose Logging** — Log doses with one click from your daily Today schedule
+- **Skip & Multi-Skip Doses** — Skip individual doses or multiple at once with a reason, keeping your history accurate
+- **Unit Calculator** — Automatic syringe unit calculations for injectable medications
+- **Cycle Tracking** — Track on/off protocols with washout periods and cycle day display
+- **Vial Grouping** — Group multiple vials of the same compound for unified inventory tracking
+- **Lab Results** — Track biomarkers over time with reference ranges and trend charts
+- **Blood Pressure** — Monitor BP trends with systolic/diastolic/pulse charts
+- **Weight Tracking** — Monitor weight trends with visual charts
+- **HealthKit Integration** — Write dose events to Apple Health on iOS
+- **Adherence Reports** — See how consistently you're staying on protocol
+- **Doctor Printout** — Professional patient health summary for your healthcare provider
+- **Export All Data** — Download your complete data as a ZIP file for backup or portability
+- **Dark Mode** — Full dark mode support across desktop and mobile
+- **Sign in with Apple** — One-tap account creation and login on iOS
 
 ### Quick Links
 
 | Section | Description |
 |:--------|:------------|
 | [Quick Start]({% link quick-start.md %}) | Get up and running in 5 minutes |
+| [Getting Started]({% link getting-started.md %}) | A full 10-minute walkthrough |
 | [User Manual]({% link user-manual.md %}) | Complete feature documentation |
 | [FAQ]({% link faq.md %}) | Frequently asked questions |
 
@@ -77,4 +76,4 @@ We will notify users in advance of any extended maintenance.
 
 ---
 
-*TrackMe+ v3.1.10 — February 2026*
+*TrackMe+ v1.0 — April 2026*

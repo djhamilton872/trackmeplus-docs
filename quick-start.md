@@ -19,8 +19,8 @@ Get up and running in under 5 minutes!
 {: .label .label-green }
 
 1. Go to [trackmeplus.com](https://trackmeplus.com) on your computer or phone
-2. Click **Sign Up**
-3. Enter your name, email, and password
+2. Click **Sign Up** (or use **Sign in with Apple** for instant one-tap setup)
+3. Enter your name and email, or continue with Apple
 4. Click **Create Account**
 
 You're in! TrackMe+ automatically detects your device and loads the right version — desktop on a computer, mobile on a phone.
@@ -68,16 +68,6 @@ Need to log a past dose? Use the date picker on the Today page to navigate back,
 
 ---
 
-## Step 4: Explore Your Dashboard
-{: .d-inline-block }
-
-30 seconds
-{: .label .label-green }
-
-Click **Dashboard** to see your stats at a glance: active medications, doses this week, total doses logged, and spending. Quick-action buttons let you jump to log a dose, add a medication, record a lab, or track a purchase.
-
----
-
 ## You're All Set! 🎉
 
 ### What's Next?
@@ -85,8 +75,8 @@ Click **Dashboard** to see your stats at a glance: active medications, doses thi
 - **Add more medications** as needed
 - **Log doses daily** to build your history
 - **Track lab results** — click **Lab Results** (or **Labs** on mobile) to start tracking bloodwork
-- **Use the dose timer** to space injections
 - **Skip doses** you intentionally miss — keeps your records honest
+- **Check your adherence** — go to Reports to see how consistently you're staying on protocol
 
 ---
 
@@ -97,9 +87,8 @@ Click **Dashboard** to see your stats at a glance: active medications, doses thi
 |:----|:------------|
 | ✅ Quick logging | Check the Done box on the Today page to instantly log doses |
 | ⏭️ Skip doses | Use the Skip button to mark doses as intentionally skipped with a reason |
-| ⏱️ Persistent timer | The dose timer continues even if you close your browser |
-| 🔔 Notifications | Enable browser notifications for timer alerts |
 | 🌙 Dark mode | Toggle dark mode in Settings → Display |
+| 📱 Install on phone | Add to home screen for app-like access |
 
 ---
 
@@ -128,7 +117,7 @@ Now you have a TrackMe+ icon on your home screen that opens like a native app!
 
 ---
 
-*Updated: February 2026 | v3.1.10*
+*Updated: April 2026 | v1.0*
 
 [Full User Manual]({% link user-manual.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Back to Home]({% link index.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }

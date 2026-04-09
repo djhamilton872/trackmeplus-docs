@@ -17,7 +17,7 @@ Common questions about TrackMe+
 <details open markdown="block">
 <summary>What is TrackMe+?</summary>
 
-TrackMe+ is a web application for tracking medications, peptides, supplements, and related health data. It helps you manage dosing schedules, calculate injection units, log doses, track lab results, and monitor your health data over time.
+TrackMe+ is a free web application for tracking medications, peptides, supplements, and related health data. It helps you manage dosing schedules, calculate injection units, log doses, track lab results, and monitor your health data over time.
 </details>
 
 <details markdown="block">
@@ -36,6 +36,12 @@ Yes! TrackMe+ has a dedicated mobile experience that works on smartphones and ta
 <summary>Is there a dark mode?</summary>
 
 Yes. Go to **Settings → Display** and toggle Dark Mode. It applies across the entire app, including the mobile version.
+</details>
+
+<details markdown="block">
+<summary>How much does TrackMe+ cost?</summary>
+
+TrackMe+ is completely free. No subscription, no tiers, no credit card required. Sign up and get access to everything.
 </details>
 
 ---
@@ -83,72 +89,9 @@ Yes. Use **Multi-Skip** mode on the Today page to select several doses and skip 
 </details>
 
 <details markdown="block">
-<summary>How does the dose timer work?</summary>
+<summary>How does cycle tracking work?</summary>
 
-The timer helps you space peptide doses properly. Select a preset time (5-30 minutes) or enter a custom duration. The timer:
-- Continues even if you navigate away
-- Persists if you close and reopen your browser
-- Plays an audio alert when complete
-- Shows a browser notification (if enabled)
-</details>
-
----
-
-## Plans & Billing
-
-<details markdown="block">
-<summary>What plans are available?</summary>
-
-| Plan | Price | Highlights |
-|:-----|:------|:-----------|
-| **Free** | $0/month | Up to 3 medications, 10 lab results/year |
-| **Standard** | $6.99/month | Unlimited medications, full lab tracking, budget tools |
-| **Premium** | $14.99/month | Everything in Standard plus AI features, priority support |
-| **Family** | $19.99/month | Premium features for up to 5 family members |
-
-</details>
-
-<details markdown="block">
-<summary>What's included in the free plan?</summary>
-
-- Up to 3 medications
-- 10 lab results per year
-- Basic dashboard
-- Email support
-</details>
-
-<details markdown="block">
-<summary>How do I upgrade my plan?</summary>
-
-Go to **Settings → Billing** and click the **Upgrade** button for your desired plan. Payments are handled securely through Stripe.
-</details>
-
-<details markdown="block">
-<summary>Can I cancel anytime?</summary>
-
-Yes. Go to **Settings → Billing** and click **Cancel Subscription**. You'll retain access to your paid features until the end of your current billing period.
-</details>
-
-<details markdown="block">
-<summary>What's the Family plan?</summary>
-
-The Family plan ($19.99/month) gives you all Premium features for up to 5 family members under one subscription. Each family member gets their own private account and data.
-</details>
-
----
-
-## Supplies
-
-<details markdown="block">
-<summary>How do I turn off low stock alerts for an item?</summary>
-
-Some supplies don't need restocking alerts — like a blood pressure cuff, pill cutter, or sharps container. Edit the supply and set the **Reorder Threshold** to **0**. The threshold will display as "Off" and the item won't appear in low stock counts or dashboard alerts.
-</details>
-
-<details markdown="block">
-<summary>What does "Off" mean for a reorder threshold?</summary>
-
-It means low stock tracking is disabled for that item. You set the reorder threshold to 0, so TrackMe+ won't flag it as low stock regardless of the quantity. This is useful for one-of-a-kind items you don't reorder.
+When editing a medication, turn on **Is Cycle** and set your cycle length and washout period. The app will track exactly where you are in the cycle — "Day 45 of 84", "Rest Day 10", or "Ready to Start" — and automatically pause doses during washout periods.
 </details>
 
 ---
@@ -162,9 +105,9 @@ Yes. Go to **Settings → Export All Data** to download a ZIP file containing al
 </details>
 
 <details markdown="block">
-<summary>How does receipt scanning work?</summary>
+<summary>Does TrackMe+ sync with Apple Health?</summary>
 
-On the Budget page, click **Scan Receipt**. Take or upload a photo of a receipt or invoice, and our AI will extract the line items. You can then select which items to import as purchases — you're always in control of what gets added.
+Yes. On iOS, TrackMe+ can write dose events to Apple Health. Enable it in **Settings → Integrations → Apple Health**.
 </details>
 
 ---
@@ -215,16 +158,6 @@ If a medication isn't appearing on your Today dosing schedule, check these commo
 3. **Frequency doesn't match today** — For weekly or custom-day medications, make sure today is one of your scheduled days.
 4. **Start Date is in the future** — Doses won't appear until the start date arrives.
 5. **Cycle is in washout** — If you use cycle tracking, your medication may be in an OFF/washout period.
-
-💡 **Tip:** Check your Dashboard for any red "Critical" alerts — these usually mean a medication is out of stock and needs restocking.
-</details>
-
-<details markdown="block">
-<summary>I'm not getting timer notifications</summary>
-
-1. Click the 🔔 button to enable notifications
-2. When your browser prompts, click "Allow"
-3. Make sure your device's Do Not Disturb is off
 </details>
 
 <details markdown="block">
@@ -244,4 +177,4 @@ Two ways:
 
 ---
 
-*Updated: February 2026 | v3.1.69*
+*Updated: April 2026 | v1.0*
