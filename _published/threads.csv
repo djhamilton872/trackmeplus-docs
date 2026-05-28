@@ -5,22 +5,19 @@ date|post_id|platform|status|content|text_hash|campaign|topic
 2026-03-27|69c16f8ef4d01252241c3e0e|threads|PUBLISHED|Blog promo expanded: practical guide for switching medication trackers|b93172a612af8804|march-week4-2026|blog-promo
 2026-03-30|69c1707a816dece94da51f5d|threads|PUBLISHED|All-in-one expanded: four logins four data silos no full picture|f7d3e8d30cfc8bc2|march-week4-2026|all-in-one
 2026-03-31|69c1b7d9da6152af25e05686|threads|PUBLISHED|"Washout windows matter more than most people track.
-
 TrackMe+ Dose Cycles logs each compound cycle from start to finish: start date, planned duration, washout period. Close out a cycle, rate effectiveness, note any side effects. Over time you build a real record of what worked and when you were ready to start again.
-
 No more guessing. trackmeplus.com
-
 #MedicationTracking #HealthTracking #CompoundTracking #ChronicIllness #WellnessJourney"|ffef1e141861a66a|march-week4-2026|dose-cycles
 2026-04-03|69c8701f4137ed0a8244a4c9|threads|PUBLISHED|W1-B3|9:15 AM CT Thu|april-week1-2026|content-series
-2026-04-07|69c8702749c5ffc657f96718|threads|SCHEDULED|W2-B1|9:15 AM CT Mon|april-week2-2026|content-series
-2026-04-08|69c870314137ed0a8244a5e9|threads|SCHEDULED|W2-B2|9:15 AM CT Tue|april-week2-2026|content-series
-2026-04-09|69c8703c4137ed0a8244a93b|threads|SCHEDULED|W2-B3|9:15 AM CT Wed|april-week2-2026|content-series
+2026-04-07|69c8702749c5ffc657f96718|threads|DELETED|W2-B1|9:15 AM CT Mon|april-week2-2026|content-series
+2026-04-08|69c870314137ed0a8244a5e9|threads|DELETED|W2-B2|9:15 AM CT Tue|april-week2-2026|content-series
+2026-04-09|69c8703c4137ed0a8244a93b|threads|DELETED|W2-B3|9:15 AM CT Wed|april-week2-2026|content-series
 2026-04-01|69c9977c43da8d5fcf0e0ef0|threads|PUBLISHED|Meds in one app. Labs in another. Blood pressure in a notebook. Costs in... nowhere, probably.|9d68c426524cfb01|april-week1-2026|content-series
-2026-04-18|69c86eea|threads|SCHEDULED|One lab report is a snapshot. A year of lab reports is a story.|111e5f16a1d480f7|april-week3-2026|lab-tracking
-2026-04-21|69c86ef2|threads|SCHEDULED|Here's a number most people can't answer off the top of their head: what do you spend on health each month?|2a402e18cd446c44|april-week4-2026|health-budget
+2026-04-18|69c86eea|threads|DELETED|One lab report is a snapshot. A year of lab reports is a story.|111e5f16a1d480f7|april-week3-2026|lab-tracking
+2026-04-21|69c86ef2|threads|DELETED|Here's a number most people can't answer off the top of their head: what do you spend on health each month?|2a402e18cd446c44|april-week4-2026|health-budget
 2026-04-04|69cbbba402b7f62a5820a1e4|threads|PUBLISHED|Consistent tracking is the difference between reacting to your health and managing it.|7112942301368e4f|april-gap-2026|daily-routine
-2026-04-06|69cbbbadb4bd6620e552716c|threads|SCHEDULED|53 million Americans are managing someone else's health. A parent's prescriptions. A spouse's lab results. A child's med|1f648e901bd47355|april-gap-2026|caregiver
-2026-04-06|69d3c1c29a78bd99812fa304|threads|SCHEDULED|Managing medications gets complicated fast.|ef1d2c6385905199|apr-v1-free-pivot|medication-scheduling
-2026-04-06|69d3c1c69a78bd99812fa3f6|threads|SCHEDULED|That blood pressure reading you took at the pharmacy?|0bfa68a0f8ce10f3|apr-v1-free-pivot|vitals-tracking
+2026-04-06|69cbbbadb4bd6620e552716c|threads|DELETED|53 million Americans are managing someone else's health. A parent's prescriptions. A spouse's lab results. A child's med|1f648e901bd47355|april-gap-2026|caregiver
+2026-04-06|69d3c1c29a78bd99812fa304|threads|DELETED|Managing medications gets complicated fast.|ef1d2c6385905199|apr-v1-free-pivot|medication-scheduling
+2026-04-06|69d3c1c69a78bd99812fa3f6|threads|DELETED|That blood pressure reading you took at the pharmacy?|0bfa68a0f8ce10f3|apr-v1-free-pivot|vitals-tracking
 2026-04-06|69d3c1c99a78bd99812fa421|threads|DELETED|Are you taking your medications as prescribed?|f89636fbc490d2cd|apr-v1-free-pivot|med-adherence-2
-2026-04-06|69d3c567a75f22f0e34c1a57|threads|SCHEDULED|"""Are you taking your medications as prescribed?""  Most people say yes. But complex medication schedules are genuinely ha"|f89636fbc490d2cd|apr-v1-free-pivot|apr-b3
+2026-04-06|69d3c567a75f22f0e34c1a57|threads|DELETED|"""Are you taking your medications as prescribed?""  Most people say yes. But complex medication schedules are genuinely ha"|f89636fbc490d2cd|apr-v1-free-pivot|apr-b3
